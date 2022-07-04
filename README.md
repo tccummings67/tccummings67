@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tim
-- 👀 I’m interested in GoLang
+- 👀 I’m interested in GoLang developement
 - 🌱 I’m currently learning GoLang
 - 💞️ I’m looking to collaborate on GoLang projects
 - 📫 You can reach me by email
